@@ -1,0 +1,16 @@
+course_id,course_title,category,difficulty,description
+C001,Python for Beginners,Programming,Beginner,Learn Python fundamentals and problem solving
+C002,Data Analysis with Pandas,Data Science,Intermediate,Analyze datasets using Python pandas
+C003,Machine Learning Basics,Machine Learning,Intermediate,Introduction to supervised learning
+C004,SQL and Database Design,Database,Beginner,Learn SQL queries and relational databases
+C005,Deep Learning Introduction,Machine Learning,Advanced,Neural networks and deep learning concepts
+C006,Statistics for Data Science,Data Science,Beginner,Statistics probability and data interpretation
+C007,Web Development with Flask,Web Development,Intermediate,Build web applications using Flask
+C008,Python Data Visualization,Data Science,Intermediate,Visualize data with matplotlib
+C009,Algorithms and Data Structures,Programming,Intermediate,Core algorithms and data structures
+C010,Cloud Computing Fundamentals,Cloud Computing,Beginner,Introduction to cloud platforms
+C011,Natural Language Processing,Machine Learning,Advanced,Text processing and NLP models
+C012,Frontend Development,Web Development,Beginner,HTML CSS and JavaScript foundations
+C013,Advanced SQL,Database,Advanced,Complex queries and database optimization
+C014,Data Cleaning with Python,Data Science,Beginner,Prepare messy datasets for analysis
+C015,Introduction to Git and GitHub,Tools,Beginner,Version control and collaboration
